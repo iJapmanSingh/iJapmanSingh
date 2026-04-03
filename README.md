@@ -1,4 +1,4 @@
 Hi, I'm Japman 👋  
-- 🌱 Learning DSA (Java)
+- 🌱 Practising DSA (Java)
 - 💻 Building Web Projects
 - 🎯 Goal: Software Engineer
