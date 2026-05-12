@@ -10,3 +10,9 @@ Hi, I'm Japman 👋
 <a href="https://instagram.com/japmansingh._/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 <a href="https://leetcode.com/u/im_japmansingh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
 </p>
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,nodejs,express,mongodb,react" />
+</p>
