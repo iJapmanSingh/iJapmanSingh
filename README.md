@@ -10,7 +10,7 @@ Hi, I'm Japman 👋
 </a>
 
 <a href="https://instagram.com/japmansingh._/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
 </a>
 
 <a href="https://leetcode.com/u/im_japmansingh/" target="blank">
