@@ -1,5 +1,5 @@
 Hi, I'm Japman 👋  
-- 🌱 Practising DSA (Java)  🔗Leetcode - https://leetcode.com/u/im_japmansingh/
+- 🌱 Practising DSA (Java)
 - 💻 Building Web Projects
 - 📫 How to reach me japman006@gmail.com
 
