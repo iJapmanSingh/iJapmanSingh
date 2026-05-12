@@ -9,6 +9,10 @@ Hi, I'm Japman 👋
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 
+<a href="https://instagram.com/japmansingh._/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" />
+</a>
+
 <a href="https://leetcode.com/u/im_japmansingh/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
 </a>
