@@ -5,7 +5,7 @@ Hi, I'm Japman 👋
 
 ### Connect with me :
 
-<a href="https://https://www.linkedin.com/in/japman-singh11/" target="blank">
+<a href="https://www.linkedin.com/in/japman-singh11/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 
