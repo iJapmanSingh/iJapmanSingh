@@ -12,7 +12,7 @@ Hi, I'm Japman 👋
 </p>
 
 
-## 🚀 Languages and Tools : 
+### Languages and Tools : 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
