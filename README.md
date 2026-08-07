@@ -3,7 +3,7 @@ Hi, I'm Japman 👋
 - 💻 Building Web Projects
 - 📫 How to reach me japman006@gmail.com
 
-[📚My DSA Sheets](https://github.com/iJapmanSingh/DSA-Resources)
+📚[My DSA Sheets](https://github.com/iJapmanSingh/DSA-Resources) - Personal DSA sheets created while solving problems, shared in case they help others.
 
 
 ### Connect with me :
